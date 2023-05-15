@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Software Engineer at @forbole, a videogames enthusiast & a passionate pc builder
 
 * 🌍  I'm based in Italy
-* 🚀  I'm currently working on [Butter](http://twitter.com/ButterDSocial)
-* 🧠  I'm learning NextJS
+* 🚀  I'm currently working on 👀
+* 🧠  I'm learning NextJS
 
 
 ### Socials

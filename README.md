@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alessandro Mazzon
 =========================================================================================================================================
 
-I am a Software Engineer at @forbole, a videogames enthusiast & a passionate pc builder
+I am a Software Engineer at @desmos-labs, a videogames enthusiast & a passionate pc builder
 
 * 🌍  I'm based in Italy
 * 🚀  I'm currently working on 👀

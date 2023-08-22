@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Software Engineer at @desmos-labs, a videogames enthusiast & a passionate pc builder
 
 * 🌍  I'm based in Italy
-* 🚀  I'm currently working on 👀
+* 🚀  I'm currently working on [Bondscape](https://bondscape.desmos.network)
+
 * 🧠  I'm learning NextJS
 
 

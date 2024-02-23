@@ -1,13 +1,10 @@
 Hi! My name is Alessandro Mazzon
 =========================================================================================================================================
 
-I am a Software Engineer at @desmos-labs, a videogames enthusiast & a passionate pc builder
+I am a Software Engineer at @desmos-labs, a videogames enthusiast & a passionate PC builder
 
 * 🌍  I'm based in Italy
-* 🚀  I'm currently working on [Bondscape](https://bondscape.desmos.network)
-
-* 🧠  I'm learning NextJS
-
+* 🚀  I'm currently working on [Bondscape](https://bondscape.desmos.network) and [Mooncake](https://mooncake.space/)
 
 ### Socials
 

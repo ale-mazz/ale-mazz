@@ -1,4 +1,7 @@
-Hi! My name is Alessandro Mazzon
-=========================================================================================================================================
+  # Hi, I'm Alessandro Mazzon 👋
 
-I am a Software Engineer, a videogames enthusiast & a passionate PC builder
+  Software Engineer · Videogames enthusiast · PC builder
+
+  I build **React Native** apps for Italian government digital services, and work on **IT-Wallet / EUDI** digital identity.
+
+  [LinkedIn](https://www.linkedin.com/in/ale-mazzon/) · [Email](mailto:alessandro.mazzon.44@gmail.com)
